@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+Hello I am Anant Patel!
+
+I am a Computer Systems explorer. I like the way engineering and design of operating systems, etc. work.
+
+I am also An-Ant (🐜) wishing to reach the infinite (♾️).
